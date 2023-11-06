@@ -1,0 +1,16 @@
+G:\PRG\dskonfb\dskonfb\bin\Debug\net6.0-windows\dskonfb.exe
+G:\PRG\dskonfb\dskonfb\bin\Debug\net6.0-windows\dskonfb.deps.json
+G:\PRG\dskonfb\dskonfb\bin\Debug\net6.0-windows\dskonfb.runtimeconfig.json
+G:\PRG\dskonfb\dskonfb\bin\Debug\net6.0-windows\dskonfb.dll
+G:\PRG\dskonfb\dskonfb\bin\Debug\net6.0-windows\dskonfb.pdb
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.Form1.resources
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.csproj.GenerateResource.cache
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.AssemblyInfoInputs.cache
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.AssemblyInfo.cs
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.csproj.CoreCompileInputs.cache
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.dll
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\refint\dskonfb.dll
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.pdb
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\dskonfb.genruntimeconfig.cache
+G:\PRG\dskonfb\dskonfb\obj\Debug\net6.0-windows\ref\dskonfb.dll
