@@ -24,17 +24,16 @@ namespace dskonfb
         int BinToDec(string bincis)
         {
 
-            int vysledek = 0;
-            int pocitadlo = 0;
-            while (pocitadlo < bincis.Length)
+            double vysl = 0;
+            while (bincis.Length > 0)
             {
-                double vypocet = bincis[bincis.Length-pocitadlo-1] * Math.Pow(2, pocitadlo);
-                MessageBox.Show((bincis[bincis.Length - pocitadlo - 1]).ToString());
-                vysledek += Convert.ToInt32(vypocet);
-                pocitadlo++;
+                if (bincis[0] == '1')
+                {
+                    vysl += Math.Pow(2, bincis.Length - 1);
+                }
+                bincis = bincis.Substring(1);
             }
-
-            return vysledek;
+            return Convert.ToInt32(vysl);
         }
 
 
